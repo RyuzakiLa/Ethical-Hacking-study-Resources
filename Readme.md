@@ -1,51 +1,75 @@
 Here is the notes or resources for cyber sec
 
-Cyber Security Domains
+# Cyber Security Domains
+
 -[Linked](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/)
 
-Courses and more resources
+---
+
+# Courses and more resources
+
 - [Courses](https://elhacker.info/Cursos/)
 - [Resources,youtube,etc](https://github.com/Nickyie/Cybersecurity-Resources/tree/main)
 - [Avu](https://github.com/iamavu/pandora?tab=readme-ov-file)
 - [OS](https://wiki.osdev.org/Introduction)
 
-News
+---
+
+# News
+
 -[hackernews](https://thehackernews.com/)
 -[hackday](https://hackaday.com/)
 -[Newspose](https://news.sophos.com/en-us/category/serious-security/)
 
-Blogs
+---
+
+# Blogs
+
 -[Medium](medium.com)
 -[liveoverflow](https://liveoverflow.com/)
 -[Infocsecwriteup](https://infosecwriteups.com/)
 
-Networking
+---
+
+# Networking
+
 -[Youtube](https://youtu.be/bj-Yfakjllc)
 -[Prof.messer](https://www.youtube.com/@professormesser)
-  
-Linux
+
+---
+
+# Linux
 - [Linux Overall](https://labex.io/linuxjourney)
 - [overthewire](https://overthewire.org/wargames/)
-- 
 
-Mindmaps
+---
+
+# Mindmaps
 - [Mindmap 1](https://github.com/Ignitetechnologies/Mindmap)
 
-Study Plan
+---
+
+# Study Plan
 -[90 days plan](https://github.com/Ignitetechnologies/Mindmap)
 -[Shell explain](https://explainshell.com/)
   This platforms will explain the shells
 
-Crypto Hacking
+---
+
+# Crypto Hacking
 -[Cryptohack](https://cryptohack.org/)
 
-RE
+---
+
+# RE
 -[RE github repo](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
-Web hacking
+---
+
+# Web hacking
 -[Portswigger](https://portswigger.net/)
 
-
+---
 
 
 
