@@ -2,7 +2,7 @@ Here is the notes or resources for cyber sec
 
 # Cyber Security Domains
 
--[Linked](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/)
+- [Linked](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/)
 
 ---
 
@@ -20,29 +20,29 @@ Here is the notes or resources for cyber sec
 
 # News
 
--[hackernews](https://thehackernews.com/)
+- [hackernews](https://thehackernews.com/)
 
--[hackday](https://hackaday.com/)
+- [hackday](https://hackaday.com/)
 
--[Newspose](https://news.sophos.com/en-us/category/serious-security/)
+- [Newspose](https://news.sophos.com/en-us/category/serious-security/)
 
 ---
 
 # Blogs
 
--[Medium](medium.com)
+- [Medium](medium.com)
 
--[liveoverflow](https://liveoverflow.com/)
+- [liveoverflow](https://liveoverflow.com/)
 
--[Infocsecwriteup](https://infosecwriteups.com/)
+- [Infocsecwriteup](https://infosecwriteups.com/)
 
 ---
 
 # Networking
 
--[Youtube](https://youtu.be/bj-Yfakjllc)
+- [Youtube](https://youtu.be/bj-Yfakjllc)
 
--[Prof.messer](https://www.youtube.com/@professormesser)
+- [Prof.messer](https://www.youtube.com/@professormesser)
 
 ---
 
@@ -61,28 +61,28 @@ Here is the notes or resources for cyber sec
 
 # Study Plan
 
--[90 days plan](https://github.com/Ignitetechnologies/Mindmap)
+- [90 days plan](https://github.com/Ignitetechnologies/Mindmap)
 
--[Shell explain](https://explainshell.com/)
+- [Shell explain](https://explainshell.com/)
   This platforms will explain the shells
 
 ---
 
 # Crypto Hacking
 
--[Cryptohack](https://cryptohack.org/)
+- [Cryptohack](https://cryptohack.org/)
 
 ---
 
 # RE
 
--[RE github repo](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+- [RE github repo](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
 ---
 
 # Web hacking
 
--[Portswigger](https://portswigger.net/)
+- [Portswigger](https://portswigger.net/)
 
 ---
 
