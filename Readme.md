@@ -3,6 +3,7 @@ Here is the notes or resources for cyber sec
 # Cyber Security Domains
 
 - [Linked](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/)
+- [basic CS](https://www.nand2tetris.org/)
 
 ---
 
