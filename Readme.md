@@ -17,6 +17,11 @@ Here is the notes or resources for cyber sec
   
 - [OS](https://wiki.osdev.org/Introduction)
 
+- [cyberwatchbog](https://github.com/iamthefrogy/CyberWatchdog)
+    This contain the usefull repos for cyber security
+
+ - [Holifuck](https://github.com/HolyBugx/HolyTips) 
+
 ---
 
 # News
@@ -52,6 +57,8 @@ Here is the notes or resources for cyber sec
 
 - [overthewire](https://overthewire.org/wargames/)
 
+- [MannuLinux](https://www.mannulinux.org/)
+
 ---
 
 # Mindmaps
@@ -85,12 +92,15 @@ Here is the notes or resources for cyber sec
 
 - [Portswigger](https://portswigger.net/)
 
+- [checklist](https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6)
+
 ---
 
 # ISO files with old to new versions
 
 - [Parrot](https://cdimage.debian.org/mirror/parrotsec.org/parrot/iso/5.3/)
 - [kali](https://old.kali.org/kali-images/)
+- 
 
 ---
 
@@ -98,25 +108,11 @@ Here is the notes or resources for cyber sec
 
 - [iso](https://ios.cfw.guide/)
 
-  # Resources
-This repo holds multiple resources links which is technical to use in day to day research nd hunting
-
-## Courses Resources
-
-[**Courses**](https://elhacker.info/Cursos/)
-
 ---
 
-## Usefull github links
+# Binary Exploitation
 
--[cyberwatchbog](https://github.com/iamthefrogy/CyberWatchdog)
-    This contain the usefull repos for cyber security
-
----
-
-## Linux
-
-- [MannuLinux](https://www.mannulinux.org/)
+-[github](https://r1ru.github.io/categories/binary-exploitation-101/)
 
 ---
 
@@ -217,21 +213,19 @@ This repo holds multiple resources links which is technical to use in day to day
 
 ---
 
-## WhatsApp OSINT
+## OSINT
 
 - [WhatsApp OSINT tools for investigators](https://osintteam.blog/whatsapp-osint-tools-for-osint-investigators-c9050048193b)
+- [OSINT](https://www.osinthandbook.com/protecting-personal-data)
 
 ---
-
-## Have a look
-
--[BB1](https://freedium.cfd/https://medium.com/bugbountywriteup/i-followed-this-recon-checklist-and-found-12-bugs-in-1-week-1e546a0d8b2e?__cf_chl_rt_tk=JsSV_OxXupLOu5u8rLTAeE_LTcA08gNM2kbv7BXfoH8-1753248808-1.0.1.1-8sWXnQsd2TmCIyz1UoYXNdNV.KxHDrsmhm8.BCab6Rc)
 
 ## Hardware
 
 - [BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 
 ---
+
 ## Blogs for Bug Bounty
 
 - [Subdomain bypass](https://freedium.cfd//https://infosecwriteups.com/access-denied-subdomain-bypass-178c2717fad9)
