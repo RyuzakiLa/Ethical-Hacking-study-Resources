@@ -231,8 +231,10 @@ Here is the notes or resources for cyber sec
 - [Subdomain bypass](https://freedium.cfd//https://infosecwriteups.com/access-denied-subdomain-bypass-178c2717fad9)
 
 
+## OSCP TJ NUll
 
-  
+-[OSCP](https://youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf&si=8EAdituMs5ba93s2)
+
 
 
 
