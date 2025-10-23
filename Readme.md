@@ -4,6 +4,8 @@ Here is the notes or resources for cyber sec
 
 - [Linked](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/)
 - [basic CS](https://www.nand2tetris.org/)
+- [OS](https://www.tutorialspoint.com/operating_system/os_properties.htm)
+- [Basics comp](https://edu.gcfglobal.org/en/computerbasics/setting-up-a-computer/1/)
 
 ---
 
@@ -112,7 +114,7 @@ Here is the notes or resources for cyber sec
 
 # Binary Exploitation
 
--[github](https://r1ru.github.io/categories/binary-exploitation-101/)
+- [github](https://r1ru.github.io/categories/binary-exploitation-101/)
 
 ---
 
